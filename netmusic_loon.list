@@ -1,9 +1,4 @@
 🔊 网易云1 = http,106.52.127.72,19951,fast-open=false,udp-relay=false
-🔊 网易云2 = http,aimer.one,2333,fast-open=false,udp-relay=false
-🔊 网易云3 = http,taron.top,100,fast-open=false,udp-relay=false
-🔊 网易云4 = http,music.griouges.cn,39000,fast-open=false,udp-relay=false
-🔊 网易云5 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,"desperadoj.com_free_proxy_x80j",fast-open=false,udp-relay=false
-🔊 网易云6 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,"desperadoj.com_free_proxy_x80j",fast-open=false,udp-relay=false
-🔊 网易云7 = Shadowsocks,hk.mazeorz.monster,9530,aes-128-gcm,"mazeorz_unblock",fast-open=false,udp-relay=false
-🔊 网易云8 = Shadowsocks,loon.loonx000.xyz,9530,aes-128-gcm,"kkkw1314",fast-open=false,udp-relay=false
-🔊 网易云9 = Shadowsocks,loon.saintartoria.xyz,9530,aes-128-gcm,"yomi1314",fast-open=false,udp-relay=false
+🔊 网易云2 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,"desperadoj.com_free_proxy_x80j",fast-open=false,udp-relay=false
+网易云|Mr.W = Shadowsocks,loon.loonx000.xyz,9530,aes-128-gcm,"kkkw1314",fast-open=false,udp-relay=false
+网易云|Saintartoria = Shadowsocks,loon.saintartoria.xyz,9530,aes-128-gcm,"yomi1314",fast-open=false,udp-relay=false
