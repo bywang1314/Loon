@@ -1,0 +1,13 @@
+# 115离线下载
+
+[URL Rewrite]
+# 115离线下载
+^http:\/\/115\.com\/\?ct=sign$ http://115.com/lx?taskdg=1 header
+
+[Script]
+# > 115离线
+http-response ^http:\/\/115\.com\/lx.*$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/115lx.js,tag=115离线
+http-response ^https?:\/\/webapi\.115\.com\/user\/check_sign.*$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ikanam/Surge-Scripts/master/115lx.js,tag=115离线
+
+[MITM]
+hostname = *.115.com
